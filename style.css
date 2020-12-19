@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(#00334d, #006699);
+}
+
+.container {
+    font-family: 'Raleway', sans-serif;
+
+}
+.nav {
+    font-family: 'Raleway', sans-serif;
+}
+.form-label {
+    font-size: large;
+}
+#connect {
+    position: relative;
+    background-position: bottom center;
+   
+}
+
+.email {
+    position: relative;
+    align-content: center;
+}
+.btn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
